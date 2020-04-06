@@ -13,6 +13,14 @@
     .login-area form {
     float: none;
 }
+    .left-area {
+        width: 100%;
+        float: none;
+    }
+    .right-area {
+        width: 100%;
+        float: none;
+    }
     .login-area input[type="submit"]{
         margin-top: 10px;
     }    
@@ -32,6 +40,9 @@
     .login-area input[type="password"] {
         width: 100%;
         box-sizing: border-box;
+    }
+    .birth-date {
+        margin-bottom: 10px;
     }
 
 }
